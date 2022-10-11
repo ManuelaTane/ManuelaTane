@@ -1,5 +1,5 @@
 ---
-layout: Manuela TANE
+layout: default
 ---
 
 
@@ -12,7 +12,7 @@ There should be whitespace between paragraphs.
 Poste : Motion designer (auto-entrepreneur)
 Outils : After-effects
 
-## Excelens formation
+## ISRP
 
 Poste : chef de projet e-learning (3ans)
 Outils : After-effects, 360Learning, Moodle, Articulate storyline 3, Adobe Premiere pro, Illustrator, photoshop
