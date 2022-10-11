@@ -20,19 +20,12 @@ Outils : After-effects, 360Learning, Moodle, Articulate storyline 3, Adobe Premi
 ### Excelens formation
 Poste : conceptrice e-learning
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+```Baselime
+Poste : Motion designer (auto-entrepreneur) Outils : After-effects
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+```Baselime
+Poste : Motion designer (auto-entrepreneur) Outils : After-effects
 ```
 
 #### Header 4
